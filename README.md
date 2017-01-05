@@ -1,2 +1,4 @@
 # paradoxx
-Apple site effect
+Apple site effect like:
+
+http://www.apple.com/br/macbook/
